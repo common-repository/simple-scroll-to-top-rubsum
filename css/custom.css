@@ -1,0 +1,18 @@
+.scroll-to-top-icon {
+	position: fixed;
+	bottom: 10px;
+	right: 15px;
+	z-index: 9999;
+	display: none;
+}
+
+.scroll-to-top-icon a {
+	color: #FFFFFF;
+	background: #0984e3;
+	padding: 7px 18px;
+	border-radius: 10px 10px 0 0;
+}
+
+.scroll-to-top-icon a i {
+	padding: 10px;
+}
